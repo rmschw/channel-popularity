@@ -31,23 +31,5 @@ ant -buildfile channelpopularity/src/build.xml run -Dinput="input.txt" -Doutput=
 ```
 Note: Arguments accept the absolute path of the files.
 
+ 
 
-## Description:
-
-## Slack Day Usage:
-I have used my first first slack day option, please consider it.
-I am using one day as slack day.
-
-
-## Academic Honesty statement:
-
-"I have done this assignment completely on my own. I have not copied
-it, nor have I given my solution to anyone else. I understand that if
-I am involved in plagiarism or cheating an official form will be
-submitted to the Academic Honesty Committee of the Watson School to
-determine the action that needs to be taken. "
-
-Date: [06-25-2020]
-
-
-#channel-popularity
